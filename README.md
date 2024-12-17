@@ -31,3 +31,6 @@ npm i
 ```bash
 npm run dev
 ```
+
+### Live Deployment
+`email-app.mistrytushar.com`
